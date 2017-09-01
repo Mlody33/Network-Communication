@@ -1,3 +1,6 @@
 [submodule "NetworkCommunicationClient"]
 	path = NetworkCommunicationClient
 	url = https://github.com/Mlody33/NetworkCommunicationClient
+[submodule "NetworkCommunicationServer"]
+	path = NetworkCommunicationServer
+	url = https://github.com/Mlody33/NetworkCommunicationServer
