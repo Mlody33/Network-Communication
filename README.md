@@ -18,7 +18,7 @@ Also you have preview for your app status.
 
 >**_App is still in beta, but mostly works well._**
 
-#Commands for Maven
+# Commands for Maven
 
 Build server application and run jar file
 >**mvn clean install exec:java**<
