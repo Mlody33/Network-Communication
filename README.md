@@ -21,9 +21,9 @@ Also you have preview for your app status.
 # Commands for Maven
 
 Build server application and run jar file
->**mvn clean install exec:java**<
+>**mvn clean install exec:java**
 
 Build client application and run jar file
->**mvn clean install assembly:single exec:java**<
+>**mvn clean install assembly:single exec:java**
 
 
